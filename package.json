@@ -1,0 +1,24 @@
+{
+  "name": "npm-peershrink-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kodypeterson/npm-peershrink-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kodypeterson/npm-peershrink-test/issues"
+  },
+  "homepage": "https://github.com/kodypeterson/npm-peershrink-test",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "jit-grunt": "~0.8",
+    "npm-peershrink-test-dependency": "git+https://github.com/kodypeterson/npm-peershrink-test-dependency.git"
+  }
+}
